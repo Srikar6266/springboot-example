@@ -2,7 +2,7 @@ name: SpringbootPipeline
 
 on:
     push:
-        branches: [main, ec2-deploy]
+        branches: [ec2-deploy]
 
 jobs: 
     build:
