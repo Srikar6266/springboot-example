@@ -12,8 +12,8 @@ public class TestController {
 	@GetMapping
 	public Object hello() {
 		Map<String, String> object = new HashMap<>();
-		object.put("name", "Bhanu Srikar");
-		object.put("email", "bhanusrikar1101@gmail.com");
+		object.put("name", "Bhanu Srikar B P");
+		object.put("email", "bhanusrikar11015@gmail.com");
 		return object;
 	}
 
